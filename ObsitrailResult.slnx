@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="examples/Program.cs" />
+  </Folder>
+  <Project Path="src/Obsitrail.Result/Obsitrail.Result.csproj" />
+  <Project Path="tests/Obsitrail.Result.Tests/Obsitrail.Result.Tests.csproj" />
+</Solution>
